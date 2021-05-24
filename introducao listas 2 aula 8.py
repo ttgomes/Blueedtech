@@ -7,3 +7,6 @@ print()
 print(a*2)
 print(2 in a)
 print(15 in a)
+
+
+print(4 ** 2)

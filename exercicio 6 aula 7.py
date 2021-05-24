@@ -1,4 +1,4 @@
-def notas(na,nb,nc) :
+'''def notas(na,nb,nc) :
     media = na + nb + nc
     return media // 3 
     
@@ -34,4 +34,6 @@ prova_c = float(input("entre com a nota da terceira prova :"))
 print(f"A média das 3 provas è : {notas(prova_a,prova_b,prova_c)}")
 print(f'A média entre as duas maiores notas é : {media1(prova_a,prova_b,prova_c)}')
 print(f'Sua maior nota é : {maior_nota(prova_a,prova_b,prova_c)}')
-print(f'Sua menor nota é : {menor_nota(prova_a,prova_b,prova_c)}')
+print(f'Sua menor nota é : {menor_nota(prova_a,prova_b,prova_c)}')'''
+
+
